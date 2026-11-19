@@ -28,8 +28,6 @@ allinone-setup/
 └── README.md
 ```
 
-> Marketing landing lives in a separate repo: [m-hamza1/allinone](https://github.com/m-hamza1/allinone).
-
 ---
 
 ## Requirements
@@ -161,12 +159,3 @@ In **Admin → Settings → Inboxes**, connect providers (WhatsApp, Meta, email,
 
 This project is maintained as open source for self-hosting and customization.  
 Issues and pull requests are welcome on this repository.
-
----
-
-## Related
-
-| Repo | Contents |
-| --- | --- |
-| [allinone-setup](https://github.com/m-hamza1/allinone-setup) | Application source (this repo) |
-| [allinone](https://github.com/m-hamza1/allinone) | Public marketing landing |
